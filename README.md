@@ -15,7 +15,7 @@
 #### "zod"
 #### "json web token"
 #### "ts-node-dev"
-#### "typescript -D"
+#### "typescript"
 #### "@types/express"
 #### "@types/pg"
 #### "@types/pg-format"
