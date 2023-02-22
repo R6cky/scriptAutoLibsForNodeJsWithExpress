@@ -2,10 +2,10 @@
 Bash script for backend development libs installation. ( NodeJS + Typescript + Express )
 
 
-### This is a script made in bash that automates the installation of 
-### libraries used for development in Node Js + Typescript with the
+#### This is a script made in bash that automates the installation of 
+#### libraries used for development in Node Js + Typescript with the
 
-###  NodeJS + typescript + Express framework 
+####  NodeJS + typescript + Express framework 
 
 
 #### list libraries
