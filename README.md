@@ -1,14 +1,11 @@
-# scriptLibsExpress
-Bash script for backend development libs installation. ( NodeJS + Typescript + Express )
-
+## scriptLibsExpress
 
 #### This is a script made in bash that automates the installation of 
 #### libraries used for development in Node Js + Typescript + Express framework 
+#### using npm package manager.
 
 
 ### list libraries
-
-#### Instalação do Express +  libs with package manager npm.
 
 #### "Express"
 #### "pg"
