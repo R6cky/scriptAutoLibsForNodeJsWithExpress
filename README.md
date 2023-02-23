@@ -36,7 +36,7 @@
 
 #### "jsonWebToken"
 
-\*Only npm package manager for now.
+-----------------------
 
 ### Step by step
 
