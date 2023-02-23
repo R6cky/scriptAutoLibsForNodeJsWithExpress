@@ -45,3 +45,7 @@
 #### 2. Enter the directory
 
 #### 3. Run command "bash script.sh" in git bash or linux terminal
+
+----------------------------------------------------------------------
+
+Made with Bash script
