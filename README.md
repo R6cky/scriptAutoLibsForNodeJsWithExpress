@@ -5,7 +5,7 @@
 #### libraries used for development in Node Js + Typescript + Express framework
 
 #### using npm package manager.
-
+---------------------------------
 ### list libraries
 
 #### "Express"
@@ -36,9 +36,9 @@
 
 #### "jsonWebToken"
 
-\*Only npm package manager for now.
+-----------------------
 
-Step by step
+### Step by step
 
 #### 1. Clone the repository
 
