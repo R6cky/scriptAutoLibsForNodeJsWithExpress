@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Instalação de libs
 
 npm init -y; echo "init -y"
