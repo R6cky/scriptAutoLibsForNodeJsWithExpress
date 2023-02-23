@@ -44,4 +44,4 @@
 
 #### 2. Enter the directory
 
-#### 3. Execute o comando "bash script.sh" no git bash ou no terminal do linux
+#### 3. Run command "bash script.sh" in git bash or linux terminal
