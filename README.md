@@ -38,7 +38,7 @@
 
 \*Only npm package manager for now.
 
-Step by step
+###Step by step
 
 #### 1. Clone the repository
 
